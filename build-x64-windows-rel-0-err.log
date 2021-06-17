@@ -1,0 +1,156 @@
+
+jom 1.1.3 - empower your cores
+
+crypto\bn\x86_64-gf2m.asm:1: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:6: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:11: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:13: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:15: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:17: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:19: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:39: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:41: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:43: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:45: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:48: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:50: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:52: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:54: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:57: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:59: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:61: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:63: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:66: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:68: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:70: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:72: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:77: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:81: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:86: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:96: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:101: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:111: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:116: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:126: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:131: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:141: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:146: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:156: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:161: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:171: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:176: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:186: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:201: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:203: error: label `_mul_1x1' inconsistently redefined
+crypto\bn\x86_64-gf2m.asm:6: info: label `_mul_1x1' originally defined here
+crypto\bn\x86_64-gf2m.asm:203: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:205: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:208: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:211: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:218: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:233: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:233: error: comma, colon, decorator or end of line expected after operand
+crypto\bn\x86_64-gf2m.asm:234: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:234: error: comma, colon, decorator or end of line expected after operand
+crypto\bn\x86_64-gf2m.asm:238: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:239: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:241: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:242: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:243: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:244: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:246: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:248: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:250: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:252: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:254: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:255: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:256: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:257: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:258: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:259: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:265: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:266: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:268: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:269: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:271: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:272: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:274: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:275: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:276: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:277: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:279: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:280: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:281: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:282: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:283: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:288: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:290: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:294: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:295: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:297: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:299: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:301: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:303: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:305: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:307: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:308: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:309: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:311: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:313: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:315: error: label `bn_GF2m_mul_2x2' inconsistently redefined
+crypto\bn\x86_64-gf2m.asm:208: info: label `bn_GF2m_mul_2x2' originally defined here
+crypto\bn\x86_64-gf2m.asm:315: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:326: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:338: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:339: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:341: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:345: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:347: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:351: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:352: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:353: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:354: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:355: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:356: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:357: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:359: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:360: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:361: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:362: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:363: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:364: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:365: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:367: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:369: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:370: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:372: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:379: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:380: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:381: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:382: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:383: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:384: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:385: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:386: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:387: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:388: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:389: warning: `PTR' is not a NASM keyword [-w+ptr]
+crypto\bn\x86_64-gf2m.asm:403: error: label `se_handler' inconsistently redefined
+crypto\bn\x86_64-gf2m.asm:326: info: label `se_handler' originally defined here
+crypto\bn\x86_64-gf2m.asm:403: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:405: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:415: error: label `se_handler.pdata' inconsistently redefined
+crypto\bn\x86_64-gf2m.asm:406: info: label `se_handler.pdata' originally defined here
+crypto\bn\x86_64-gf2m.asm:415: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:418: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:421: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:425: error: parser: instruction expected
+crypto\bn\x86_64-gf2m.asm:426: warning: label alone on a line without a colon might be in error [-w+label-orphan]
+jom: Option /K specified. Continuing.
+jom: D:\vcpkg\buildtrees\openssl\x64-windows-rel\Makefile [crypto\bn\x86_64-gf2m.obj] Error 1
+jom: Target 'libcrypto-1_1-x64.dll' cannot be built due to failed dependencies.
+jom: Target 'libcrypto_static.lib' cannot be built due to failed dependencies.
+jom: Target 'libssl-1_1-x64.dll' cannot be built due to failed dependencies.
+jom: Target 'apps\openssl.exe' cannot be built due to failed dependencies.
+jom: D:\vcpkg\buildtrees\openssl\x64-windows-rel\makefile [all] Error 1
+jom: Option /K specified. Continuing.

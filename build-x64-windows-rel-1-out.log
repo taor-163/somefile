@@ -1,0 +1,2 @@
+	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe" /                   depend && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe" /                   _build_libs
+	nasm  -Ox -f win64 -DNEAR -g -o crypto\bn\x86_64-gf2m.obj "crypto\bn\x86_64-gf2m.asm"

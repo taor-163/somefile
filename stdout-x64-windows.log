@@ -1,0 +1,23 @@
+-- Using D:/vcpkg/downloads/openssl-1.1.1k.tar.gz
+-- Cleaning sources at D:/vcpkg/buildtrees/openssl/src/openssl-1-a1ae8b796e.clean. Use --editable to skip cleaning for the packages you specify.
+-- Extracting source D:/vcpkg/downloads/openssl-1.1.1k.tar.gz
+-- Using source at D:/vcpkg/buildtrees/openssl/src/openssl-1-a1ae8b796e.clean
+-- Copying openssl release source files...
+-- Copying openssl release source files... done
+-- Configure x64-windows-rel
+-- Configure x64-windows-rel done
+-- Build x64-windows-rel
+CMake Error at scripts/cmake/vcpkg_execute_required_process.cmake:105 (message):
+    Command failed: nmake -f makefile install_sw install_ssldirs
+    Working Directory: D:/vcpkg/buildtrees/openssl/x64-windows-rel
+    Error code: 2
+    See logs for more information:
+      D:\vcpkg\buildtrees\openssl\build-x64-windows-rel-1-out.log
+      D:\vcpkg\buildtrees\openssl\build-x64-windows-rel-1-err.log
+
+Call Stack (most recent call first):
+  ports/openssl/windows/portfile.cmake:82 (vcpkg_execute_required_process)
+  ports/openssl/portfile.cmake:19 (include)
+  scripts/ports.cmake:139 (include)
+
+
